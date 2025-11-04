@@ -1,2 +1,2 @@
 # exchange
-simple centralised exchange logic 
+simple contract for differences code. 
